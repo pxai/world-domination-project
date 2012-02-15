@@ -1,5 +1,7 @@
 <?php
 // Vamos a usar la variable de SESIÓN
+// paqueño cambio
+// $id$
 session_start();
 
 $msg = $_SESSION['error'];
